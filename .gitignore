@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+.yo-rc.json
+*.log
+.babelrc
+.editorconfig
+.eslintrc
